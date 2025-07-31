@@ -1,0 +1,9 @@
+streamlit
+audio-recorder-streamlit
+torch
+transformers
+scipy
+numpy
+soundfile
+requests
+google-generativeai
